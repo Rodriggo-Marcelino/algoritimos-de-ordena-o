@@ -1,1 +1,1 @@
-# algoritimos-de-ordena-o
+# algoritimos-de-ordenacao
